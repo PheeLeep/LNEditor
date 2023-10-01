@@ -1,0 +1,14 @@
+LNEditor (or Legal Notice Editor) is a small software used for editing Windows' legal notice banner's caption and text.
+
+To show a legal notice banner, add values on both the caption and the text then save (by Ctrl+S).
+The values will be shown once the user attempts to log in.
+
+If the caption and/or the text are empty and has been saved, the legal notice banner will not shown and instead, the user will go directly to the login window.
+
+To clear both the caption and the text, press Ctrl+Shift+Q then click Yes.
+
+------------------------------------------------
+NOTE:
+To edit legal notice's caption and text, this program must run as administrator.
+
+This program will not allowed to edit if the computer is part of the domain workstation, regardless of whether the program's privilege is elevated.
